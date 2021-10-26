@@ -1,16 +1,17 @@
-# yemeksepeticlone
+# Flutter Yemek Sepeti Clone
 
-A new Flutter project.
+Merhaba, Sizlere yapmış olduğum Flutter "Yemek Sepeti" clone'unu paylaşmak istedim.
 
-## Getting Started
+# Yapılan
 
-This project is a starting point for a Flutter application.
+- Intro sayfası yapıldı.
+- Bottom Navigatiton Bar eklendi.
+- Ana Sayfa yapıld.
+## Coming
+- Arama sayfası yapılacak
+- Sepet sayfası yapılacak
+- Canlı Yardım sayfası yapılacak
+- Hesabım sayfası yapılacak
+- Proje görselleri eklenecek
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Developer - Ömer Kaan Sağlam
