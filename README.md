@@ -2,12 +2,12 @@
 
 Merhaba, Sizlere yapmış olduğum Flutter "Yemek Sepeti" clone'unu paylaşmak istedim.
 
-# Yapılan
+# Made
 
 - Intro sayfası yapıldı.
 - Bottom Navigatiton Bar eklendi.
 - Ana Sayfa yapıld.
-## Coming
+## Incoming
 - Arama sayfası yapılacak
 - Sepet sayfası yapılacak
 - Canlı Yardım sayfası yapılacak
